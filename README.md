@@ -1,5 +1,5 @@
 
-# Colorizing Grayscale Images with Convolutional Autoencoders
+# Auto_Colorizer
 
 This project's aim is to colorize grayscale images through the help of convolutional autoencoders.
 Primarily, we are concerned with colorizing indoor scenes.
