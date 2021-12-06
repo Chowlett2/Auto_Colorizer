@@ -14,12 +14,7 @@ The images used for training/val/test are from the MIT Indoor Scenes dataset.
 
 ## Usage/Examples
 
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
+```
 ```
 
 
