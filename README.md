@@ -19,13 +19,13 @@ The data can be downloaded from Kaggle using this [link](https://www.kaggle.com/
 The script for the [project](https://github.com/Chowlett2/Auto_Colorizer/blob/main/model.ipynb) is usable with some changes to file directory on your system.
 
 Pre-trained model weights from this project are located [here](https://github.com/Chowlett2/Auto_Colorizer/blob/main/model-epoch-20-losses-0.003.pth).
-```
+
 
 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-```
+
 
 ## Acknowledgements
 
